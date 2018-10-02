@@ -1,0 +1,7 @@
+Origin: Jaume Miralles Isern
+Label: Circus Github
+Suite: stable
+Codename: wheezy
+Architectures: armel
+Components: main
+Description: Debian ARM packages for circusofthings.com API

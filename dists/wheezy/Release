@@ -1,0 +1,20 @@
+Origin: Jaume Miralles Isern
+Label: Circus Github
+Suite: stable
+Codename: wheezy
+Date: Tue, 02 Oct 2018 15:36:48 UTC
+Architectures: armel
+Components: main
+Description: Debian ARM packages for circusofthings.com API
+MD5Sum:
+ 36d42a20ff23d7727e88b33b092a5f31 625 main/binary-armel/Packages
+ c2dfe8ad5482323297d715207e8ba415 383 main/binary-armel/Packages.gz
+ 8b19f7125019742c9b384bfee3749ef4 162 main/binary-armel/Release
+SHA1:
+ fdc69e22c108aba25922c9dce6c4d84654e1d76a 625 main/binary-armel/Packages
+ ddcaee41b7b5a362814e90dbcaef5cb77f70d75c 383 main/binary-armel/Packages.gz
+ 0dc80f8605d77520b714305056e6ff5a62fb7125 162 main/binary-armel/Release
+SHA256:
+ d6c4293341dedd14c6a6395483d6963415141ef5a26f58fdcea1215a6964aca3 625 main/binary-armel/Packages
+ 9cf95e14d086c546a830b3c079fe89bcda6b3a7956cd27615f6e1e68136a3c99 383 main/binary-armel/Packages.gz
+ 6b109ab18895bafa25d2acda3ca8a7efeef4a09504a88a0776a2c5233f78ab76 162 main/binary-armel/Release

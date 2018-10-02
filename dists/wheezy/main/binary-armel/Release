@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Jaume Miralles Isern
+Label: Circus Github
+Architecture: armel
+Description: Debian ARM packages for circusofthings.com API
