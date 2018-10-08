@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
 Origin: Jaume Miralles Isern
 Label: Circus Github
 Suite: stable
@@ -18,3 +21,14 @@ SHA256:
  34b00ae6efbbea6b353510620dc827f24050ffbb244d64baa44cd0fdfb9bfea6 625 main/binary-armel/Packages
  d4074b11f4581972307b179501d7e646253a02c3c6e0a18f8d823e17365263b1 384 main/binary-armel/Packages.gz
  6b109ab18895bafa25d2acda3ca8a7efeef4a09504a88a0776a2c5233f78ab76 162 main/binary-armel/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJbu0tRAAoJEBIVA6BcX7bs/0IH/2+/WKS+yXxNw7+K+54Orl/B
+36OyERhnuahStiiyem7XnSM9U0XhLPkQhPeihM+r4p+LDLhWrFqoo7adW5Q2wEE+
+VbewyotlejE9VufSLnC5tBJcpmBvZKj86/XoZ/MF9QLvO4+ojjXpmN6SGBYM7nMq
+tUl8uA9G+lWZ3FiDogOGBFEInjTJoUOVVS+FIWEdmkDp/k70CPw8U7Jq9rUZ87Za
+9GJbwuy4LjQFUtP7/wzUpqvDKONXN3qJG6QrOzVXIqlwzJrEWlb488iU0rcmN/js
+g1NF3qV91z9fkSEN6EXwVXRTF/Zw8DpaIPMGkRGyTGn/QoACaaOf81/GDFJvhVY=
+=FxYl
+-----END PGP SIGNATURE-----

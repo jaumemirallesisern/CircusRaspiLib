@@ -1,7 +1,7 @@
-Origin: Hackgnar
-Label: Hackgnar Github
+Origin: Jaume Miralles Isern
+Label: Circus Github
 Suite: stable
 Codename: wheezy
 Architectures: armel
 Components: main
-Description: Debian ARM packages hosted on hackgnars github repository
+Description: Debian ARM packages for circusofthings.com API

@@ -5,3 +5,4 @@ Codename: wheezy
 Architectures: armel
 Components: main
 Description: Debian ARM packages for circusofthings.com API
+SignWith: yes

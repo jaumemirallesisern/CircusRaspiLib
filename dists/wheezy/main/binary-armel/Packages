@@ -3,10 +3,10 @@ Name: Circus Debian Library
 Priority: optional
 Section: Libraries
 Filename: pool/main/c/circusofthings/circusofthings_0.1_all.deb
-Size: 2806
-SHA256: 5dbcb3197bf194bd0599fffe88185d20c7cc05ef082c00a134e6eada552ea4ac
-SHA1: 9cd366fcdf31a60f7a6d8e2cd918ed0a73bf7baa
-MD5sum: bb04a0e58bdcfddd9204691423f527f6
+Size: 3736
+SHA256: 16da92c57de3c5a7ff80002d514a1bc52332f3cbaecd28bbd2b90834f20647af
+SHA1: 8457f15726084cbef5e33f9488bd4528a8617a3e
+MD5sum: 9f1057ad608e8204ab334d127aefb1c0
 Description: Linux commands/libraries that implement the circusofthings.com API
 Author: Jaume Miralles Isern <info@circusofthings.com>
 Maintainer: Jaume Miralles Isern <info@circusofthings.com>
